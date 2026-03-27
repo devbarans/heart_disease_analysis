@@ -1,14 +1,14 @@
-# 🫀 Kalp Hastalığı Risk Analizi ve Tahminlemesi
+#  Kalp Hastalığı Risk Analizi ve Tahminlemesi
 
 Bu proje, UCI Cleveland veri setini kullanarak kalp hastalığı risk faktörlerini analiz etmeyi ve makine öğrenmesi modelleri (Lojistik Regresyon ve Karar Ağaçları) ile hastalık varlığını tahminlemeyi amaçlayan kapsamlı bir veri bilimi çalışmasıdır.
 
 ---
 
-## 📋 Proje Genel Bakış
+##  Proje Genel Bakış
 
 Kalp hastalıkları, dünya genelinde en önemli sağlık sorunlarından biridir. Bu çalışmada, hastaların demografik bilgileri, kan analizleri ve elektrokardiyografi sonuçları kullanılarak bir analiz boru hattı (pipeline) oluşturulmuştur.
 
-### 🚀 Öne Çıkan Özellikler
+###  Öne Çıkan Özellikler
 - **Otomatik Veri Temizleme:** Eksik değerlerin (missing values) tespiti ve uygun dönüşümlerin yapılması.
 - **Keşifsel Veri Analizi (EDA):** Verinin yapısını anlamak için gelişmiş görselleştirmeler.
 - **Model Karşılaştırması:** Lineer (Lojistik Regresyon) ve Non-lineer (Karar Ağacı) modellerin performans analizi.
@@ -16,7 +16,7 @@ Kalp hastalıkları, dünya genelinde en önemli sağlık sorunlarından biridir
 
 ---
 
-## 📊 Veri Seti Hakkında
+##  Veri Seti Hakkında
 
 Proje, UCI Machine Learning Repository'de bulunan **Heart Disease Cleveland** veri setini temel alır.
 
@@ -33,7 +33,7 @@ Proje, UCI Machine Learning Repository'de bulunan **Heart Disease Cleveland** ve
 
 ---
 
-## 📉 Keşifsel Veri Analizi (EDA)
+##  Keşifsel Veri Analizi (EDA)
 
 Veri setindeki demografik ve klinik değişkenlerin dağılımları ile hedef değişken arasındaki ilişkiler aşağıda görselleştirilmiştir.
 
@@ -50,7 +50,7 @@ Veri setindeki demografik ve klinik değişkenlerin dağılımları ile hedef de
 
 ---
 
-## 🤖 Modelleme ve Performans
+##  Modelleme ve Performans
 
 Proje kapsamında iki farklı algoritma eğitilmiş ve test edilmiştir.
 
@@ -93,7 +93,7 @@ Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 
 ---
 
-## 🧪 Sonuçlar
+##  Sonuçlar
 
 Yapılan analizler sonucunda:
 - **Lojistik Regresyon**, genel doğruluk (Accuracy) ve ROC-AUC skorlarında Karar Ağacı modeline göre daha stabil bir performans sergilemiştir.
