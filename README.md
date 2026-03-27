@@ -57,17 +57,17 @@ Proje kapsamında iki farklı algoritma eğitilmiş ve test edilmiştir.
 ### 1. Performans Karşılaştırması
 Modellerin Accuracy, Precision, Recall ve F1 skorları ile ROC eğrileri karşılaştırılmıştır.
 
-![Model Değerlendirme](output/heart_disease_analysis/model_evaluation.png)
+![Model Değerlendirme](heart_disease_analysis/output/heart_disease_analysis/model_evaluation.png)
 
 ### 2. Özellik Önemleri
 Karar Ağacı modeli tarafından belirlenen, tahminde en etkili olan ilk 10 özellik:
 
-![Özellik Önemi](output/heart_disease_analysis/feature_importance.png)
+![Özellik Önemi](heart_disease_analysis/output/heart_disease_analysis/feature_importance.png)
 
 ### 3. Karar Ağacı Yapısı
 Modelin karar verme sürecini temsil eden hiyerarşik yapı:
 
-![Karar Ağacı Yapısı](output/heart_disease_analysis/decision_tree_structure.png)
+![Karar Ağacı Yapısı](heart_disease_analysis/output/heart_disease_analysis/decision_tree_structure.png)
 
 ---
 
