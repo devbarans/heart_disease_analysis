@@ -102,5 +102,4 @@ Yapılan analizler sonucunda:
 
 ---
 
-> [!TIP]
-> Bu analiz bir temel teşkil etmektedir. Daha gelişmiş sonuçlar için **Random Forest** veya **XGBoost** gibi topluluk (ensemble) öğrenme yöntemleri denenebilir.
+
